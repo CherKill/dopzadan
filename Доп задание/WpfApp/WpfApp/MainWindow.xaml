@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" FontSize="14">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="0.20*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <DataGrid Name="dataGridEmployees" AutoGenerateColumns="False" MouseDoubleClick="DataGridEmployees_MouseDoubleClick" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Фамилия" Width="*" Binding="{Binding LastName}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Имя" Width="*" Binding="{Binding FirstName}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Отчество" Width="*" Binding="{Binding SurName}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Отдел" Width="*" Binding="{Binding Department.Name}"></DataGridTextColumn>
+                <DataGridTemplateColumn Header="Удалить" Width="65">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Удалить" Click="Button_Click_1" Tag="{Binding}"></Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button Grid.Row="1" Width="200" Height="30" HorizontalAlignment="Left" Margin="5" Content="Добавить сотрудника" Click="Button_Click"></Button>
+        <Button Grid.Row="1" Width="200" Height="30" HorizontalAlignment="Right" Margin="5" Content="Добавить отдел" Click="ButtonAddDepartament_Click"></Button>
+    </Grid>
+</Window>

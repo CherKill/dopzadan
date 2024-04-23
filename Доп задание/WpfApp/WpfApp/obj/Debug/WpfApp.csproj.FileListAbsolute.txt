@@ -1,0 +1,50 @@
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\bin\Debug\EntityFramework.dll
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\bin\Debug\EntityFramework.xml
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.AssemblyReference.cache
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\DepartmentWindow.g.cs
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\EmployeeWindow.g.cs
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\App.g.cs
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp_Content.g.cs
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\DepartmentWindow.baml
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\EmployeeWindow.baml
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.Up2Date
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+D:\Работы под заказ\Кириллу\ИСПРО\2 часть\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\bin\Debug\EntityFramework.dll
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\bin\Debug\EntityFramework.xml
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\DepartmentWindow.g.cs
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\EmployeeWindow.g.cs
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\App.g.cs
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp_Content.g.cs
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\DepartmentWindow.baml
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\EmployeeWindow.baml
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\429193-21\Desktop\Доп задание\WpfApp\WpfApp\obj\Debug\WpfApp.pdb
